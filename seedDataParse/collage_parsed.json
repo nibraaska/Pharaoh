@@ -1,0 +1,1135 @@
+[
+	{
+		"model": "issues.issuse", 
+		"pk": "286cdd53-ac73-4ee4-a329-d5c511214ae5",
+		"fields": { 
+			"Title": "Fall 2018",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/e805d0a5-02ec-4c86-bf79-c783020f292f.jpg",
+			"Issue": "https://www.mtsu.edu/collage/docs/2018CollageFall.pdf",
+			"Youtube": "https://www.youtube.com/channel/UCs8G6gZXr8b_eo-HrPDnoow?view_as=subscriber",
+			"Soundcloud": "https://soundcloud.com/mtsu-collage"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "dd5a6baf-e61e-4918-b90f-7a1e5b07c299",
+		"fields": { 
+			"Title": "Spring 2018",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/1d4f8c74-4e3b-45fd-853e-167a8c5e3893.jpg",
+			"Issue": "https://www.mtsu.edu/collage/docs/2018-spring.pdf",
+			"Youtube": "https://www.youtube.com/channel/UCs8G6gZXr8b_eo-HrPDnoow?view_as=subscriber",
+			"Soundcloud": "https://soundcloud.com/mtsu-collage"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "30d4620d-07fc-4bd0-affb-39e58dada0e0",
+		"fields": { 
+			"Title": "Fall 2017",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/536f30d8-ddef-433a-b43d-0905f0c7f4cd.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/Collage_Fall_2017.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "5beab2ea-22ad-4d9e-af3b-d33ea102bf70",
+		"fields": { 
+			"Title": "Spring 2017",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/501486f2-8861-43a3-8048-328e01c67430.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/Collage-Spring-2017.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "fce2466b-09d8-442a-be65-a0482bb2ac5a",
+		"fields": { 
+			"Title": "Fall 2016",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/ffc87b29-e3ef-4619-b739-37588081a472.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/Collage_Fall2016_FINAL.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "9a23f971-8181-481c-9602-1b52a4ba4fac",
+		"fields": { 
+			"Title": "Spring 2016",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/f9fdb5a2-74d8-4380-aaf8-490ba2841207.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/MTSU_16000_Collage_print_L2wa.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "101b9a15-6475-4b7c-b797-4f3db9904b48",
+		"fields": { 
+			"Title": "Fall 2015",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/e79a3443-59f6-42c7-a9d1-2ce1bf2626fb.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/collage_11-5-2015_web.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "d387469b-c0c5-4054-bdf6-43042fd594b3",
+		"fields": { 
+			"Title": "Spring 2015",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/70021e93-ae31-4929-87d8-6f979552b374.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/Spring2015Collage.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "dd24370d-6462-46ad-a2a0-dba19424064b",
+		"fields": { 
+			"Title": "Fall 2014",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/3866d256-008e-45d7-b021-8088d00d465d.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/2014-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "b5eeddf5-dbe4-4296-b39d-a367c813d0cf",
+		"fields": { 
+			"Title": "Spring 2014",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/0a9120e5-4f34-4660-8fce-f3e554377d30.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/2014-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "7fb23503-f871-4ac6-a9aa-97b9c32418d1",
+		"fields": { 
+			"Title": "Fall 2013",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/d8c602e5-c21e-4c2b-a86d-5fdb95c2b014.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/2013-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "48a69283-2b5a-4827-9cbe-f0782aee26e0",
+		"fields": { 
+			"Title": "Spring 2013",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/3687bc51-00bd-4cc6-9eee-2420c2e018bd.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/2013-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "24ab157e-b859-4376-9ae3-4cc2b35a86d5",
+		"fields": { 
+			"Title": "Fall 2012",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/08d61e8e-f2fc-40f4-aca5-1bad2592f876.png",
+			"Issue": "http://mtsu.edu/collage/docs/2012-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "a4f0c267-4c61-45fc-81ec-da4224aa893a",
+		"fields": { 
+			"Title": "Spring 2012",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/d212a727-36e9-42c8-8d81-8576ebce471a.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/2012-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "d7ce32cb-234b-46a9-ba05-ecd1be372618",
+		"fields": { 
+			"Title": "Fall 2011",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/95aaba07-bdcf-4e64-adfd-4c1d842358c2.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/2011-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "96b4bcc1-62be-4fc3-8bd9-838ef3744bfe",
+		"fields": { 
+			"Title": "Spring 2011",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/ddc5b674-fd62-4f42-9fb6-55062bcf3aa0.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/2011-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "42145645-1548-48b6-ae55-4d148d0184c8",
+		"fields": { 
+			"Title": "Fall 2010",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/c72efd28-ceb3-4124-8aea-fd61c1e0d42b.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/2010-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "995a9968-00cf-462e-8d76-ed04059e5bcd",
+		"fields": { 
+			"Title": "Fall 2009",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/2b7b90a2-ef20-40e0-b5a3-f457db3e3df0.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/2009-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "039b96eb-ac29-4b2f-a1e6-09f37ad7685f",
+		"fields": { 
+			"Title": "Spring 2009",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/4b3434fb-86f8-434f-b5ca-0f97285b8977.jpg",
+			"Issue": "http://mtsu.edu//collage/docs/2009-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "fb1ce35c-3f93-48b4-a928-493a3567c1eb",
+		"fields": { 
+			"Title": "Spring 2008",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/33735b91-9f7f-4863-9182-7ee9df31ba49.jpg",
+			"Issue": "http://mtsu.edu//collage/docs/2008-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "941809f0-89cd-4e1d-9690-5243ec23abbf",
+		"fields": { 
+			"Title": "Fall 2007",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/b93289e2-fc90-4fb6-b5f5-a5558483e3e9.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/2007-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "91859915-403c-43e5-8a27-28e224a435a1",
+		"fields": { 
+			"Title": "Spring 2007",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/11f75b63-1b02-40b8-9b26-13047570feb8.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/2007-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "6185674a-af9c-4f8c-a6f4-477c4aca2d93",
+		"fields": { 
+			"Title": "Fall 2006",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/3f5bf896-c390-46b3-b9fd-ff17e0ca4352.jpg",
+			"Issue": "No link",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "1ac18b71-d199-4a5d-992b-df4cff080031",
+		"fields": { 
+			"Title": "Spring 2006",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/39c233cf-71ed-47b9-8f35-8b444053d999.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/2006-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "33d8b7e5-d39c-496e-ab3f-7155c7733b57",
+		"fields": { 
+			"Title": "Fall 2005",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/724f8220-25b3-4c78-aeff-ee1b24de971a.jpg",
+			"Issue": "No link",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "ee604f3b-2170-4a50-be67-077791f9460e",
+		"fields": { 
+			"Title": "Spring 2005",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/076e37b6-7bb5-4dc3-9653-ad70ee11f4cc.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/2005-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "295c6028-5e6c-4dea-8e67-fc6ad43b58c5",
+		"fields": { 
+			"Title": "Spring 2004",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/2df8d701-5274-4f2c-907e-85d2298cda3b.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/2004-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "4bb76f46-074e-4372-9e42-a3f7f01acfa7",
+		"fields": { 
+			"Title": "Spring 2002",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/ee05ef56-4809-42fc-96c9-398c155855f2.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/2002-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "2969120f-de48-4c5a-adf9-1eaf5bb80713",
+		"fields": { 
+			"Title": "Spring 2000",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/0ff5fe35-5571-4daa-af27-8d4cebadaa5f.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/Spring-2000.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "7abe8926-681c-4d37-926f-2d9c45e364fe",
+		"fields": { 
+			"Title": "Fall 1998",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/eacbd5d2-3e3c-45b7-90a3-07022c49498e.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/Fall-1998.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "19fbb4d2-13c4-4122-ade7-582d0d4b7d60",
+		"fields": { 
+			"Title": "Fall 1997",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/18be28ba-78b2-4913-be03-4215e603ffe6.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/fall-1997.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "4f695618-4820-4b0b-a83c-57a39baca71a",
+		"fields": { 
+			"Title": "Fall 1996",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/1a61566a-5d87-4b16-b07f-28b451bd3391.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1996-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "4f6d281e-7757-460f-be01-2676cdd2a446",
+		"fields": { 
+			"Title": "Fall 1995",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/b7dd5c2d-c58c-4f08-827a-4aaba4b4d60c.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1995-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "602b0c95-198e-4415-9999-34c7b3cc9e7f",
+		"fields": { 
+			"Title": "Fall 1993",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/fb076c81-3011-4a42-9dfa-69467dc1422d.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/Fall-1993.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "a75f4158-b34b-4786-a2cf-3424c79266b1",
+		"fields": { 
+			"Title": "Spring 1993",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/c8249c1b-0141-46cd-8056-5b0d3d5c8ad4.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1993-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "6a346ea5-3a80-4f4b-80b6-cdeaad3908d1",
+		"fields": { 
+			"Title": "Fall 1992",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/3e7c6819-ac28-4e35-9b88-7d0fe0f66be2.jpg",
+			"Issue": "No link",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "80d0353a-af30-4eb9-8da5-99f68c4fc896",
+		"fields": { 
+			"Title": "Fall 1990",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/f01362d9-4dc9-4df1-ab36-042a417eb34c.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1990-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "69ea4171-6d8c-4571-b3d9-4840986338b4",
+		"fields": { 
+			"Title": "Spring 1990",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/ee742fe4-74a2-4f68-a533-cf37a7e00d4c.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/Spring-1990.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "7fa7d702-589f-4e85-b240-dc59aa571e67",
+		"fields": { 
+			"Title": "Fall 1989",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/86aefbe8-cd16-4cf5-8d25-58acd1460ac7.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1989-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "c5cd594f-44ee-4170-a545-54d8a5c4feaa",
+		"fields": { 
+			"Title": "Spring 1988",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/0bc183fe-6d58-4c58-8cc2-0b5b4d932cd9.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1988-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "5112da11-8214-46a3-9085-1bd56ef3802c",
+		"fields": { 
+			"Title": "Fall 1987",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/459a8831-89e3-4ada-a3a3-98978405e150.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1987-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "38ff324b-471b-4d33-85d2-032a0f3ff75d",
+		"fields": { 
+			"Title": "Spring 1987",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/7add3a9c-b4cc-40f0-8a4c-3df23b0a3474.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1987-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "b2af1c43-9221-4f5e-82dd-f09c81a149d6",
+		"fields": { 
+			"Title": "Spring 1985",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/687587d4-1262-44d9-922a-bbc4b17479f9.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1985-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "997554f2-86d3-4a02-a1d7-beca31ec9a30",
+		"fields": { 
+			"Title": "Winter 1984",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/09f51c00-faf4-4f77-b8a3-b18658c173e7.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1984-winter.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "a785b2bd-ee78-4368-adc3-66771521a7e4",
+		"fields": { 
+			"Title": "Spring 1984",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/1c2f8533-6a89-4f29-8b32-fd134f7a10bd.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1984-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "7d1ef58e-e423-4864-a4b8-9e7b57593d51",
+		"fields": { 
+			"Title": "March 1981",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/43c9e0cd-be32-4402-968f-b2c631a137d5.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1981-march.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "f3703a0a-1335-40ce-a75f-ebbb75870327",
+		"fields": { 
+			"Title": "April 1980",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/9caa42a2-51a5-486a-8f97-dbb77ddb92a2.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1980.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "dae643a8-3150-443f-9bd8-bf5ca2625f53",
+		"fields": { 
+			"Title": "October 1979",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/6b583088-716b-4f8e-a367-6de25419e056.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1979-october.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "af30379e-780c-4741-bdc0-5799b0f3b413",
+		"fields": { 
+			"Title": "April 1979",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/99463727-183a-42ec-a86f-652b93e40c96.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1979_April.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "22f02b02-5385-4810-8f67-3007994ca432",
+		"fields": { 
+			"Title": "Fall 1978",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/98f5f5d9-37d0-4c98-b03e-129a7585fcd1.jpg",
+			"Issue": "No link",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "912c6140-002d-4ce4-8bdb-8887ea09a642",
+		"fields": { 
+			"Title": "1977",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/aca8dcc5-e767-48ea-8f7b-a5f2e3ad112a.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1977.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "1c34ed46-0b9a-40e7-b85f-7100bc93286c",
+		"fields": { 
+			"Title": "1976",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/664ace3e-cfb5-45cb-bc8a-23a5e5dffdae.jpg",
+			"Issue": "No link",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "920f7496-e0c0-4b49-8b4c-689751838934",
+		"fields": { 
+			"Title": "Winter 1975",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/7f26b5cc-400d-4b3a-8e4f-9b5603406088.jpg",
+			"Issue": "No link",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "573577b2-66ed-4b7a-8262-74ff2907a3cc",
+		"fields": { 
+			"Title": "Fall 1975",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/f31b3230-b3ad-4f8c-bc67-a4509574250f.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1975-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "2155964e-38b4-417e-8a96-3ea5f4886a97",
+		"fields": { 
+			"Title": "May 1975",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/fb1cae88-e6b2-4481-9328-566ace3ad997.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/May-1975.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "b0335484-14d0-442a-beee-13ea3b0d173f",
+		"fields": { 
+			"Title": "February 1975",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/63a25b79-de0f-4b58-b757-5d15d5b935e2.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1975-february.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "abdf1f92-495d-41f7-b8ca-e7cacf69087b",
+		"fields": { 
+			"Title": "December 1974",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/0ea76724-1c7d-4de9-bff4-d967f4773495.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1974-december.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "c3aab33c-1056-4a9c-8be5-e3e66c78ea64",
+		"fields": { 
+			"Title": "May 1974",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/f032d0c3-9912-4328-832d-02b73aaead71.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1974-may.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "c255f8b9-8589-4234-9d11-55d4539b6fea",
+		"fields": { 
+			"Title": "Fall 1973",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/a1f8cfb2-cd26-459b-86ce-38bc2ee1f27b.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1973_Autumn.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "f2a7654d-1d41-4ad7-86ae-4ac531a26320",
+		"fields": { 
+			"Title": "February 1973",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/e1d6b7ad-a098-4dbf-aced-cceab8162425.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1973_February.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "3232f3dd-6819-4cf6-8ed5-b7bb381cd269",
+		"fields": { 
+			"Title": "November 1972",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/9f81d318-366f-4137-aa96-026dcb4fbf6e.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1972_November.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "d9ac9d98-4418-4158-ae78-88f6521894c2",
+		"fields": { 
+			"Title": "September 1972",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/bebf59d5-2db3-4224-a209-92a4da616625.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1972_September.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "0931469c-2448-4b0c-a91c-c3dd928a7e46",
+		"fields": { 
+			"Title": "May 1972",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/1dc3d394-b756-4842-b572-aa381e8a220c.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1972_May.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "26f67f2a-d642-4a27-871c-dc00a360af69",
+		"fields": { 
+			"Title": "April 1972",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/5dcfb84b-6aaf-4283-b858-ea7dabdaff12.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1972_April.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "8e7dbc09-e5df-4af5-b996-54d0baa23552",
+		"fields": { 
+			"Title": "May 1970",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/c9c2ccc2-dce6-4cf0-9f9b-e8579f06e455.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1970_May.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "0c8f2d94-6b9f-4ad8-ab02-5d4f449e24e1",
+		"fields": { 
+			"Title": "February 1970",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/da2eb506-3236-4b88-9550-760bbba45676.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1970_February.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "51270506-aa9d-41f2-b37d-121630972a63",
+		"fields": { 
+			"Title": "December 1969",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/4849e1fa-72b3-442b-a7df-4daf1bf2e232.jpg",
+			"Issue": "http://mtsu.edu//collage/docs/1969_December.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "429c2b0c-7391-4b52-b8ac-80ea2199c1f6",
+		"fields": { 
+			"Title": "November 1969",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/bcdb4278-56ad-4197-8a23-3a232beaeb15.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1969_November.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "34c8e63e-0c2d-4c1b-a9fa-e7d69c0e77cf",
+		"fields": { 
+			"Title": "May 1969",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/495eb9b5-4b89-4a67-8b18-8d43e5d98e85.jpg",
+			"Issue": "http://mtsu.edu//collage/docs/1969_May.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "6310e667-2aba-428c-a744-edd27f63f4f7",
+		"fields": { 
+			"Title": "April 1969",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/ce3679eb-0c60-4ec4-a259-e9f7cfb0273f.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1969_April.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "58d944d0-3e6f-4a21-ba38-08ab47294be3",
+		"fields": { 
+			"Title": "1969",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/794e9db5-580f-4363-8695-d057615d45a0.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1969.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "016da543-f936-4e77-94bd-63126b7f6a40",
+		"fields": { 
+			"Title": "Spring 1968",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/055da034-d6f7-454e-bb7e-0668064b81c9.jpg",
+			"Issue": "http://mtsu.edu/collage/docs/1968-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "2c8837f9-c0c3-43ff-9f60-de9865e63262",
+		"fields": { 
+			"Title": "Mystery",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/8b44b042-e0e1-4f0e-80eb-a958ef8b1cce.jpg",
+			"Issue": "No link",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "b8b3c712-485a-4461-883c-94e4191ce33b",
+		"fields": { 
+			"Title": "Unknown",
+			"Image": "https://www.mtsu.edu/_resources/ldp/.private_ldp/a150991/production/master/aec6c491-a194-4359-bacf-748d264ef1c2.jpg",
+			"Issue": "No link",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "32de96bc-39df-419e-8708-6f817262bbc4",
+		"fields": { 
+			"Title": "No title",
+			"Image": "No link",
+			"Issue": "No link",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "c1d6673d-cfff-410e-9388-b3e7dd0db0cb",
+		"fields": { 
+			"Title": "No title",
+			"Image": "No link",
+			"Issue": "No link",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "c31a9999-a654-4afd-9f6f-e0d66a5e7e5c",
+		"fields": { 
+			"Title": "Spring 2010",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2010-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "6f62ac05-b608-4061-bb8e-425ad4b61b2d",
+		"fields": { 
+			"Title": "Spring 2010",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2010-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "aaec987a-addb-4a29-9927-33e9e672844b",
+		"fields": { 
+			"Title": "Spring 2010",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2010-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "1a084420-2e34-4152-9c97-9a65042c1798",
+		"fields": { 
+			"Title": "Fall 2009",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2009-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "8419f659-5c2a-48f8-9ca6-021d7bb93d52",
+		"fields": { 
+			"Title": "Fall 2009",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2009-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "36367b78-4d80-4782-ab3e-1fbb25944dcb",
+		"fields": { 
+			"Title": "Fall 2009",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2009-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "a0ca5be3-17f1-4921-a94d-9cd68cf267c8",
+		"fields": { 
+			"Title": "Spring 2009",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2009-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "587e7084-904c-419f-9b6d-d53a596e68ec",
+		"fields": { 
+			"Title": "Spring 2009",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2009-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "60e656d8-b43f-4dc8-9f86-cb0ffa6e2561",
+		"fields": { 
+			"Title": "Spring 2009",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2009-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "9213f065-8a42-4a10-80ab-3e19ccf7a144",
+		"fields": { 
+			"Title": "Fall 2008",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2008-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "dd0e72c7-ecb1-4668-96d8-cb4f2e89935c",
+		"fields": { 
+			"Title": "Fall 2008",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2008-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "0c70c0d8-ff05-45c4-9379-957701fe68ba",
+		"fields": { 
+			"Title": "Fall 2008",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2008-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "2a06e344-3f5c-4758-86f2-83011d13340c",
+		"fields": { 
+			"Title": "Spring 2008",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2008-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "c2e7aa42-c872-47b7-ae90-b2ef6f22b789",
+		"fields": { 
+			"Title": "Spring 2008",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2008-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "bee22ac0-1b6f-4a3d-9e83-773f42ca4edc",
+		"fields": { 
+			"Title": "Spring 2008",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2008-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "2b0f6b66-0798-4ad5-8a30-9bb7afa8f67c",
+		"fields": { 
+			"Title": "Fall 2007",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2007-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "a6bab3c3-1f7c-4f6d-9f68-d9aee3ce6927",
+		"fields": { 
+			"Title": "Fall 2007",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2007-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "9ed0bd02-8ee0-43f9-9cc4-bdeaac7d51ea",
+		"fields": { 
+			"Title": "Fall 2007",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2007-fall.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "6295ab73-6f3e-4702-b0d2-3645dca16701",
+		"fields": { 
+			"Title": "Spring 2007",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2007-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "41475b81-139c-47d5-8b84-bee613e7e4f6",
+		"fields": { 
+			"Title": "Spring 2007",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2007-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "987871e8-9a23-43d3-9ae3-3eb5f3a6e3ca",
+		"fields": { 
+			"Title": "Spring 2007",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2007-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "1a0057db-15cd-4048-9c17-fab0295c30db",
+		"fields": { 
+			"Title": "Spring 2006",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2006-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "e580eb6f-506c-46cd-8d30-52270ba5d166",
+		"fields": { 
+			"Title": "Spring 2006",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2006-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "96201900-3380-4fea-86b6-32bbe603ce3e",
+		"fields": { 
+			"Title": "Spring 2006",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2006-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "5a8988be-112b-4b44-af3f-8093609e7dbe",
+		"fields": { 
+			"Title": "Spring 2005",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2005-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "5eedaa57-6222-4a6c-8855-51556b6f2610",
+		"fields": { 
+			"Title": "Spring 2005",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2005-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	},
+	{
+		"model": "issues.issuse", 
+		"pk": "8db2c475-986f-498a-8a06-733e0b0ba2d5",
+		"fields": { 
+			"Title": "Spring 2005",
+			"Image": "No link",
+			"Issue": "https://www.mtsu.edu/collage/docs/2005-spring.pdf",
+			"Youtube": "No link",
+			"Soundcloud": "No link"
+		}
+	}
+]
