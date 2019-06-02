@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack --mode development --watch ./collagewebsite/frontend/src/index.js --output ./collagewebsite/frontend/static/frontend/main.js",
+    "build": "webpack --mode production ./collagewebsite/frontend/src/index.js --output ./collagewebsite/frontend/static/frontend/main.js"
   },
   "keywords": [],
   "author": "",

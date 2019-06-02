@@ -25,6 +25,8 @@ def main():
 
     is_first = True
 
+    count = 1
+
     for line in collage_1:
 
         # Start of html tag
@@ -53,13 +55,14 @@ def main():
         # End of html tag
         if "</a>" in line:
 
-            writeToFile(is_first, write_file, title, img, issue, youtube, soundcloud)
+            writeToFile(is_first, count, write_file, title, img, issue, youtube, soundcloud)
             is_first = False
             title = None
             img = None
             issue = None
             youtube = None
             soundcloud = None
+            count += 1
 
             # Out of tag
             search = False
@@ -76,67 +79,76 @@ def main():
             img = None
             youtube = None
             soundcloud = None
-        writeToFile(is_first, write_file, title, img, issue, youtube, soundcloud)
+        writeToFile(is_first, count, write_file, title, img, issue, youtube, soundcloud)
+        count += 1
 
     write_file.write("\n]")
 
     collage_2.close()
     write_file.close()
 
-def writeToFile(is_first, write_file, title, img, issue, youtube, soundcloud):
+def writeToFile(is_first, count, write_file, title, img, issue, youtube, soundcloud):
 
     if is_first:
         write_file.write("\t{\n")
     else:
         write_file.write(",\n\t{\n")
     
-    write_file.write("\t\t\"model\": \"issues.issuse\", \n")
+    write_file.write("\t\t\"model\": \"issues.issue\", \n")
 
     # Write unique pk to file
-    write_file.write("\t\t\"pk\":" + " \"" + str(uuid.uuid4()) + "\",")
+    write_file.write("\t\t\"pk\":" + " \"" + str(count) + "\",")
     write_file.write('\n')
 
     write_file.write("\t\t\"fields\": { \n")
 
     # Write title to file in JSON format
     try:
-        write_file.write("\t\t\t\"Title\":" + " \"" + title + "\",")
+        write_file.write("\t\t\t\"title\":" + " \"" + title + "\",")
     except:
-        write_file.write("\t\t\t\"Title\": \"No title\",")
+        write_file.write("\t\t\t\"title\": \"No title\",")
     finally:
         write_file.write('\n')
 
     # Write image to file in JSON format
     try:
-        write_file.write("\t\t\t\"Image\":" + " \"" + img + "\",")
+        write_file.write("\t\t\t\"image\":" + " \"" + img + "\",")
     except:
-        write_file.write("\t\t\t\"Image\": \"No link\",")
+        write_file.write("\t\t\t\"image\": \"No link\",")
     finally:
         write_file.write('\n')
 
     # Write issue pdf link to file in JSON format
     try:
-        write_file.write("\t\t\t\"Issue\":" + " \"" + issue + "\",")
+        write_file.write("\t\t\t\"issue\":" + " \"" + issue + "\",")
     except:
-        write_file.write("\t\t\t\"Issue\": \"No link\",")
+        write_file.write("\t\t\t\"issue\": \"No link\",")
     finally:
         write_file.write('\n')
 
     # Write youtube link to file in JSON format
     try:
-        write_file.write("\t\t\t\"Youtube\":" + " \"" + youtube + "\",")
+        write_file.write("\t\t\t\"youtube\":" + " \"" + youtube + "\",")
     except:
-        write_file.write("\t\t\t\"Youtube\": \"No link\",")
+        write_file.write("\t\t\t\"youtube\": \"No link\",")
     finally:
         write_file.write('\n')
 
     # Write soundcloud link to file in JSON format
     try:
-        write_file.write("\t\t\t\"Soundcloud\":" + " \"" + soundcloud + "\"")
+        write_file.write("\t\t\t\"soundcloud\":" + " \"" + soundcloud + "\",")
     except:
-        write_file.write("\t\t\t\"Soundcloud\": \"No link\"")
+        write_file.write("\t\t\t\"soundcloud\": \"No link\",")
     finally:
         write_file.write('\n')
+
+    # Write created at to file in JSON format
+    try:
+        write_file.write("\t\t\t\"created_at\":" + " \"2019-06-01 00:00:00\"")
+    finally:
+        write_file.write('\n')
+
     write_file.write("\t\t}\n\t}")
+
 
 main()
