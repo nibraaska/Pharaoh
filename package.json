@@ -16,6 +16,7 @@
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.6",
     "babel-plugin-transform-class-properties": "^6.24.1",
+    "react-router-dom": "^5.0.0",
     "webpack": "^4.32.2",
     "webpack-cli": "^3.3.2"
   },
