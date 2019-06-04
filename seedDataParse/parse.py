@@ -3,6 +3,7 @@ import requests
 from lxml import etree, html
 import uuid
 
+
 def main():
 
     # Potential get request and clean up 
