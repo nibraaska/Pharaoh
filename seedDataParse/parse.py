@@ -2,7 +2,10 @@ import substring
 import requests
 from lxml import etree, html
 import uuid
+import os
 
+
+dir = "issues/"
 
 def main():
 
@@ -57,12 +60,13 @@ def main():
         if "</a>" in line:
 
             writeToFile(is_first, count, write_file, title, img, issue, youtube, soundcloud)
+            
             is_first = False
-            title = None
-            img = None
-            issue = None
-            youtube = None
-            soundcloud = None
+            title = ""
+            img = ""
+            issue = ""
+            youtube = ""
+            soundcloud = ""
             count += 1
 
             # Out of tag
@@ -77,18 +81,24 @@ def main():
             # Get title and issue pdf link
             title = substring.substringByChar(line[line.index(">"):], startChar=">", endChar="<")[1:-1]
             issue = "https://www.mtsu.edu" + substring.substringByChar(line[line.index("href") + 4:], startChar="/", endChar="\"")[:-1] 
-            img = None
-            youtube = None
-            soundcloud = None
-        writeToFile(is_first, count, write_file, title, img, issue, youtube, soundcloud)
-        count += 1
+            img = ""
+            youtube = ""
+            soundcloud = ""
+
+            writeToFile(is_first, count, write_file, title, img, issue, youtube, soundcloud)
+
+            count += 1
 
     write_file.write("\n]")
 
     collage_2.close()
     write_file.close()
 
-def writeToFile(is_first, count, write_file, title, img, issue, youtube, soundcloud):
+
+def writeToFile(is_first, count, write_file, title, img_link, issue_link, youtube, soundcloud):
+
+    print("Working on", title)
+    img, issue = get_issues(dir, title, img_link, issue_link)
 
     if is_first:
         write_file.write("\t{\n")
@@ -107,7 +117,7 @@ def writeToFile(is_first, count, write_file, title, img, issue, youtube, soundcl
     try:
         write_file.write("\t\t\t\"title\":" + " \"" + title + "\",")
     except:
-        write_file.write("\t\t\t\"title\": \"No title\",")
+        write_file.write("\t\t\t\"title\": \"\",")
     finally:
         write_file.write('\n')
 
@@ -115,7 +125,15 @@ def writeToFile(is_first, count, write_file, title, img, issue, youtube, soundcl
     try:
         write_file.write("\t\t\t\"image\":" + " \"" + img + "\",")
     except:
-        write_file.write("\t\t\t\"image\": \"No link\",")
+        write_file.write("\t\t\t\"image\": \"\",")
+    finally:
+        write_file.write('\n')
+
+    # Write image link to file in JSON format
+    try:
+        write_file.write("\t\t\t\"image_link\":" + " \"" + img_link + "\",")
+    except:
+        write_file.write("\t\t\t\"image_link\": \"\",")
     finally:
         write_file.write('\n')
 
@@ -123,7 +141,15 @@ def writeToFile(is_first, count, write_file, title, img, issue, youtube, soundcl
     try:
         write_file.write("\t\t\t\"issue\":" + " \"" + issue + "\",")
     except:
-        write_file.write("\t\t\t\"issue\": \"No link\",")
+        write_file.write("\t\t\t\"issue\": \"\",")
+    finally:
+        write_file.write('\n')
+
+    # Write issue link to file in JSON format
+    try:
+        write_file.write("\t\t\t\"issue_link\":" + " \"" + issue_link + "\",")
+    except:
+        write_file.write("\t\t\t\"issue_link\": \"\",")
     finally:
         write_file.write('\n')
 
@@ -131,7 +157,7 @@ def writeToFile(is_first, count, write_file, title, img, issue, youtube, soundcl
     try:
         write_file.write("\t\t\t\"youtube\":" + " \"" + youtube + "\",")
     except:
-        write_file.write("\t\t\t\"youtube\": \"No link\",")
+        write_file.write("\t\t\t\"youtube\": \"\",")
     finally:
         write_file.write('\n')
 
@@ -139,7 +165,7 @@ def writeToFile(is_first, count, write_file, title, img, issue, youtube, soundcl
     try:
         write_file.write("\t\t\t\"soundcloud\":" + " \"" + soundcloud + "\",")
     except:
-        write_file.write("\t\t\t\"soundcloud\": \"No link\",")
+        write_file.write("\t\t\t\"soundcloud\": \"\",")
     finally:
         write_file.write('\n')
 
@@ -151,5 +177,33 @@ def writeToFile(is_first, count, write_file, title, img, issue, youtube, soundcl
 
     write_file.write("\t\t}\n\t}")
 
+
+def get_issues(dir, title, image, issue):
+
+    name = title.replace(' ', '_').lower()
+    location = dir + name
+    os.makedirs(location)
+
+    img_path = ""
+    if image is not "":
+        response = requests.get(image)
+        if response.status_code == 200:
+            file_name = location + "/" +name + ".jpg"
+            with open(file_name, 'wb') as f:
+                f.write(response.content)
+                img_path = file_name.replace('\\', '\\\\')
+        del response
+
+    issue_path = ""
+    if issue is not "":
+        response = requests.get(issue)
+        if response.status_code == 200:
+            file_name = location + "/" +name + ".pdf"
+            with open(file_name, 'wb') as f:
+                f.write(response.content)
+                issue_path = file_name.replace('\\', '\\\\')
+        del response 
+
+    return img_path, issue_path
 
 main()

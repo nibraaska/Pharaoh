@@ -3,27 +3,6 @@
                                 <a href="/collage/docs/2010-spring.pdf" target="_blank">Spring 2010</a> (2.2 MB)
                             </li>
                             <li>
-                                <a href="/collage/docs/2009-fall.pdf" target="_blank">Fall 2009</a> (3.7 MB)
-                            </li>
-                            <li>
-                                <a href="/collage/docs/2009-spring.pdf" target="_blank">Spring 2009</a> (5.5 MB)
-                            </li>
-                            <li>
                                 <a href="/collage/docs/2008-fall.pdf" target="_blank">Fall 2008</a> (3.7 MB)
-                            </li>
-                            <li>
-                                <a href="/collage/docs/2008-spring.pdf" target="_blank">Spring 2008</a> (2.6 MB)
-                            </li>
-                            <li>
-                                <a href="/collage/docs/2007-fall.pdf" target="_blank">Fall 2007</a> (6.9 MB)
-                            </li>
-                            <li>
-                                <a href="/collage/docs/2007-spring.pdf" target="_blank">Spring 2007</a> (5.6 MB)
-                            </li>
-                            <li>
-                                <a href="/collage/docs/2006-spring.pdf" target="_blank">Spring 2006</a> (4.4 MB)
-                            </li>
-                            <li>
-                                <a href="/collage/docs/2005-spring.pdf" target="_blank">Spring 2005</a> (1.5 MB)
                             </li>
                         </ul>

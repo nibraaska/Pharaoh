@@ -218,6 +218,11 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+
+# Media files
+seedDataParse/issues
+collagewebsite/media
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 
