@@ -10,27 +10,32 @@ import issues from './Issues/issues';
 import Header from './Layout/Header';
 import home from './Home/home';
 
+import { Provider } from 'react-redux';
+import store from '../store';
+
 import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 
 export class App extends Component {
     render() {
         return (
-            <Router>
-                <Fragment>
-                    <Header />
-                    <div>
-                        <Switch>
-                            <Route exact path='/' component={home} />
-                            <Route path='/issues' component={issues} />
-                            <Route path='/blogs' component={blogs} />
-                            <Route path='/contact' component={contact} />
-                            <Route path='/submit' component={submit} />
-                            <Route path='/login' component={login} />
-                            <Route path='/register' component={register} />
-                        </Switch>
-                    </div>
-                </Fragment>
-            </Router>
+            <Provider store={store}>
+                <Router>
+                    <Fragment>
+                        <Header />
+                        <div>
+                            <Switch>
+                                <Route exact path='/' component={home} />
+                                <Route path='/issues' component={issues} />
+                                <Route path='/blogs' component={blogs} />
+                                <Route path='/contact' component={contact} />
+                                <Route path='/submit' component={submit} />
+                                <Route path='/login' component={login} />
+                                <Route path='/register' component={register} />
+                            </Switch>
+                        </div>
+                    </Fragment>
+                </Router>
+            </Provider>
         )
     }
 }
