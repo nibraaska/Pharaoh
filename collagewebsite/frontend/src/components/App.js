@@ -22,7 +22,7 @@ export class App extends Component {
                 <Router>
                     <Fragment>
                         <Header />
-                        <div>
+                        <div className="container">
                             <Switch>
                                 <Route exact path='/' component={home} />
                                 <Route path='/issues' component={issues} />
