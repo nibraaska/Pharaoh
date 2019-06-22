@@ -1,7 +1,7 @@
 [
 	{
 		"model": "issues.issue", 
-		"pk": "1",
+		"pk": "76",
 		"fields": { 
 			"title": "Fall 2018",
 			"image": "issues/fall_2018/fall_2018.jpg",
@@ -15,7 +15,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "2",
+		"pk": "75",
 		"fields": { 
 			"title": "Spring 2018",
 			"image": "issues/spring_2018/spring_2018.jpg",
@@ -29,7 +29,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "3",
+		"pk": "74",
 		"fields": { 
 			"title": "Fall 2017",
 			"image": "issues/fall_2017/fall_2017.jpg",
@@ -43,7 +43,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "4",
+		"pk": "73",
 		"fields": { 
 			"title": "Spring 2017",
 			"image": "issues/spring_2017/spring_2017.jpg",
@@ -57,7 +57,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "5",
+		"pk": "72",
 		"fields": { 
 			"title": "Fall 2016",
 			"image": "issues/fall_2016/fall_2016.jpg",
@@ -71,7 +71,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "6",
+		"pk": "71",
 		"fields": { 
 			"title": "Spring 2016",
 			"image": "issues/spring_2016/spring_2016.jpg",
@@ -85,7 +85,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "7",
+		"pk": "70",
 		"fields": { 
 			"title": "Fall 2015",
 			"image": "issues/fall_2015/fall_2015.jpg",
@@ -99,7 +99,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "8",
+		"pk": "69",
 		"fields": { 
 			"title": "Spring 2015",
 			"image": "issues/spring_2015/spring_2015.jpg",
@@ -113,7 +113,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "9",
+		"pk": "68",
 		"fields": { 
 			"title": "Fall 2014",
 			"image": "issues/fall_2014/fall_2014.jpg",
@@ -127,7 +127,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "10",
+		"pk": "67",
 		"fields": { 
 			"title": "Spring 2014",
 			"image": "issues/spring_2014/spring_2014.jpg",
@@ -141,7 +141,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "11",
+		"pk": "66",
 		"fields": { 
 			"title": "Fall 2013",
 			"image": "issues/fall_2013/fall_2013.jpg",
@@ -155,7 +155,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "12",
+		"pk": "65",
 		"fields": { 
 			"title": "Spring 2013",
 			"image": "issues/spring_2013/spring_2013.jpg",
@@ -169,7 +169,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "13",
+		"pk": "64",
 		"fields": { 
 			"title": "Fall 2012",
 			"image": "issues/fall_2012/fall_2012.jpg",
@@ -183,7 +183,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "14",
+		"pk": "63",
 		"fields": { 
 			"title": "Spring 2012",
 			"image": "issues/spring_2012/spring_2012.jpg",
@@ -197,7 +197,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "15",
+		"pk": "62",
 		"fields": { 
 			"title": "Fall 2011",
 			"image": "issues/fall_2011/fall_2011.jpg",
@@ -211,7 +211,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "16",
+		"pk": "61",
 		"fields": { 
 			"title": "Spring 2011",
 			"image": "issues/spring_2011/spring_2011.jpg",
@@ -225,7 +225,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "17",
+		"pk": "60",
 		"fields": { 
 			"title": "Fall 2010",
 			"image": "issues/fall_2010/fall_2010.jpg",
@@ -239,7 +239,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "18",
+		"pk": "59",
 		"fields": { 
 			"title": "Fall 2009",
 			"image": "issues/fall_2009/fall_2009.jpg",
@@ -253,7 +253,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "19",
+		"pk": "58",
 		"fields": { 
 			"title": "Spring 2009",
 			"image": "issues/spring_2009/spring_2009.jpg",
@@ -267,7 +267,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "20",
+		"pk": "57",
 		"fields": { 
 			"title": "Spring 2008",
 			"image": "issues/spring_2008/spring_2008.jpg",
@@ -281,7 +281,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "21",
+		"pk": "56",
 		"fields": { 
 			"title": "Fall 2007",
 			"image": "issues/fall_2007/fall_2007.jpg",
@@ -295,7 +295,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "22",
+		"pk": "55",
 		"fields": { 
 			"title": "Spring 2007",
 			"image": "issues/spring_2007/spring_2007.jpg",
@@ -309,7 +309,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "23",
+		"pk": "54",
 		"fields": { 
 			"title": "Fall 2006",
 			"image": "issues/fall_2006/fall_2006.jpg",
@@ -323,7 +323,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "24",
+		"pk": "53",
 		"fields": { 
 			"title": "Spring 2006",
 			"image": "issues/spring_2006/spring_2006.jpg",
@@ -337,7 +337,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "25",
+		"pk": "52",
 		"fields": { 
 			"title": "Fall 2005",
 			"image": "issues/fall_2005/fall_2005.jpg",
@@ -351,7 +351,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "26",
+		"pk": "51",
 		"fields": { 
 			"title": "Spring 2005",
 			"image": "issues/spring_2005/spring_2005.jpg",
@@ -365,7 +365,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "27",
+		"pk": "50",
 		"fields": { 
 			"title": "Spring 2004",
 			"image": "issues/spring_2004/spring_2004.jpg",
@@ -379,7 +379,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "28",
+		"pk": "49",
 		"fields": { 
 			"title": "Spring 2002",
 			"image": "issues/spring_2002/spring_2002.jpg",
@@ -393,7 +393,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "29",
+		"pk": "48",
 		"fields": { 
 			"title": "Spring 2000",
 			"image": "issues/spring_2000/spring_2000.jpg",
@@ -407,7 +407,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "30",
+		"pk": "47",
 		"fields": { 
 			"title": "Fall 1998",
 			"image": "issues/fall_1998/fall_1998.jpg",
@@ -421,7 +421,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "31",
+		"pk": "46",
 		"fields": { 
 			"title": "Fall 1997",
 			"image": "issues/fall_1997/fall_1997.jpg",
@@ -435,7 +435,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "32",
+		"pk": "45",
 		"fields": { 
 			"title": "Fall 1996",
 			"image": "issues/fall_1996/fall_1996.jpg",
@@ -449,7 +449,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "33",
+		"pk": "44",
 		"fields": { 
 			"title": "Fall 1995",
 			"image": "issues/fall_1995/fall_1995.jpg",
@@ -463,7 +463,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "34",
+		"pk": "43",
 		"fields": { 
 			"title": "Fall 1993",
 			"image": "issues/fall_1993/fall_1993.jpg",
@@ -477,7 +477,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "35",
+		"pk": "42",
 		"fields": { 
 			"title": "Spring 1993",
 			"image": "issues/spring_1993/spring_1993.jpg",
@@ -491,7 +491,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "36",
+		"pk": "41",
 		"fields": { 
 			"title": "Fall 1992",
 			"image": "issues/fall_1992/fall_1992.jpg",
@@ -505,7 +505,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "37",
+		"pk": "40",
 		"fields": { 
 			"title": "Fall 1990",
 			"image": "issues/fall_1990/fall_1990.jpg",
@@ -519,7 +519,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "38",
+		"pk": "39",
 		"fields": { 
 			"title": "Spring 1990",
 			"image": "issues/spring_1990/spring_1990.jpg",
@@ -533,7 +533,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "39",
+		"pk": "38",
 		"fields": { 
 			"title": "Fall 1989",
 			"image": "issues/fall_1989/fall_1989.jpg",
@@ -547,7 +547,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "40",
+		"pk": "37",
 		"fields": { 
 			"title": "Spring 1988",
 			"image": "issues/spring_1988/spring_1988.jpg",
@@ -561,7 +561,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "41",
+		"pk": "36",
 		"fields": { 
 			"title": "Fall 1987",
 			"image": "issues/fall_1987/fall_1987.jpg",
@@ -575,7 +575,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "42",
+		"pk": "35",
 		"fields": { 
 			"title": "Spring 1987",
 			"image": "issues/spring_1987/spring_1987.jpg",
@@ -589,7 +589,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "43",
+		"pk": "34",
 		"fields": { 
 			"title": "Spring 1985",
 			"image": "issues/spring_1985/spring_1985.jpg",
@@ -603,7 +603,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "44",
+		"pk": "33",
 		"fields": { 
 			"title": "Winter 1984",
 			"image": "issues/winter_1984/winter_1984.jpg",
@@ -617,7 +617,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "45",
+		"pk": "32",
 		"fields": { 
 			"title": "Spring 1984",
 			"image": "issues/spring_1984/spring_1984.jpg",
@@ -631,7 +631,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "46",
+		"pk": "31",
 		"fields": { 
 			"title": "March 1981",
 			"image": "issues/march_1981/march_1981.jpg",
@@ -645,7 +645,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "47",
+		"pk": "30",
 		"fields": { 
 			"title": "April 1980",
 			"image": "issues/april_1980/april_1980.jpg",
@@ -659,7 +659,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "48",
+		"pk": "29",
 		"fields": { 
 			"title": "October 1979",
 			"image": "issues/october_1979/october_1979.jpg",
@@ -673,7 +673,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "49",
+		"pk": "28",
 		"fields": { 
 			"title": "April 1979",
 			"image": "issues/april_1979/april_1979.jpg",
@@ -687,7 +687,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "50",
+		"pk": "27",
 		"fields": { 
 			"title": "Fall 1978",
 			"image": "issues/fall_1978/fall_1978.jpg",
@@ -701,7 +701,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "51",
+		"pk": "26",
 		"fields": { 
 			"title": "1977",
 			"image": "issues/1977/1977.jpg",
@@ -715,7 +715,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "52",
+		"pk": "25",
 		"fields": { 
 			"title": "1976",
 			"image": "issues/1976/1976.jpg",
@@ -729,7 +729,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "53",
+		"pk": "24",
 		"fields": { 
 			"title": "Winter 1975",
 			"image": "issues/winter_1975/winter_1975.jpg",
@@ -743,7 +743,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "54",
+		"pk": "23",
 		"fields": { 
 			"title": "Fall 1975",
 			"image": "issues/fall_1975/fall_1975.jpg",
@@ -757,7 +757,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "55",
+		"pk": "22",
 		"fields": { 
 			"title": "May 1975",
 			"image": "issues/may_1975/may_1975.jpg",
@@ -771,7 +771,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "56",
+		"pk": "21",
 		"fields": { 
 			"title": "February 1975",
 			"image": "issues/february_1975/february_1975.jpg",
@@ -785,7 +785,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "57",
+		"pk": "20",
 		"fields": { 
 			"title": "December 1974",
 			"image": "issues/december_1974/december_1974.jpg",
@@ -799,7 +799,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "58",
+		"pk": "19",
 		"fields": { 
 			"title": "May 1974",
 			"image": "issues/may_1974/may_1974.jpg",
@@ -813,7 +813,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "59",
+		"pk": "18",
 		"fields": { 
 			"title": "Fall 1973",
 			"image": "issues/fall_1973/fall_1973.jpg",
@@ -827,7 +827,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "60",
+		"pk": "17",
 		"fields": { 
 			"title": "February 1973",
 			"image": "issues/february_1973/february_1973.jpg",
@@ -841,7 +841,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "61",
+		"pk": "16",
 		"fields": { 
 			"title": "November 1972",
 			"image": "issues/november_1972/november_1972.jpg",
@@ -855,7 +855,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "62",
+		"pk": "15",
 		"fields": { 
 			"title": "September 1972",
 			"image": "issues/september_1972/september_1972.jpg",
@@ -869,7 +869,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "63",
+		"pk": "14",
 		"fields": { 
 			"title": "May 1972",
 			"image": "issues/may_1972/may_1972.jpg",
@@ -883,7 +883,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "64",
+		"pk": "13",
 		"fields": { 
 			"title": "April 1972",
 			"image": "issues/april_1972/april_1972.jpg",
@@ -897,7 +897,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "65",
+		"pk": "12",
 		"fields": { 
 			"title": "May 1970",
 			"image": "issues/may_1970/may_1970.jpg",
@@ -911,7 +911,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "66",
+		"pk": "11",
 		"fields": { 
 			"title": "February 1970",
 			"image": "issues/february_1970/february_1970.jpg",
@@ -925,7 +925,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "67",
+		"pk": "10",
 		"fields": { 
 			"title": "December 1969",
 			"image": "issues/december_1969/december_1969.jpg",
@@ -939,7 +939,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "68",
+		"pk": "9",
 		"fields": { 
 			"title": "November 1969",
 			"image": "issues/november_1969/november_1969.jpg",
@@ -953,7 +953,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "69",
+		"pk": "8",
 		"fields": { 
 			"title": "May 1969",
 			"image": "issues/may_1969/may_1969.jpg",
@@ -967,7 +967,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "70",
+		"pk": "7",
 		"fields": { 
 			"title": "April 1969",
 			"image": "issues/april_1969/april_1969.jpg",
@@ -981,7 +981,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "71",
+		"pk": "6",
 		"fields": { 
 			"title": "1969",
 			"image": "issues/1969/1969.jpg",
@@ -995,7 +995,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "72",
+		"pk": "5",
 		"fields": { 
 			"title": "Spring 1968",
 			"image": "issues/spring_1968/spring_1968.jpg",
@@ -1009,7 +1009,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "73",
+		"pk": "4",
 		"fields": { 
 			"title": "Mystery",
 			"image": "issues/mystery/mystery.jpg",
@@ -1023,7 +1023,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "74",
+		"pk": "3",
 		"fields": { 
 			"title": "Unknown",
 			"image": "issues/unknown/unknown.jpg",
@@ -1037,7 +1037,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "75",
+		"pk": "2",
 		"fields": { 
 			"title": "Spring 2010",
 			"image": "",
@@ -1051,7 +1051,7 @@
 	},
 	{
 		"model": "issues.issue", 
-		"pk": "76",
+		"pk": "1",
 		"fields": { 
 			"title": "Fall 2008",
 			"image": "",

@@ -29,7 +29,7 @@ def main():
 
     is_first = True
 
-    count = 1
+    count = 76
 
     for line in collage_1:
 
@@ -67,7 +67,7 @@ def main():
             issue = ""
             youtube = ""
             soundcloud = ""
-            count += 1
+            count -= 1
 
             # Out of tag
             search = False
@@ -87,7 +87,7 @@ def main():
 
             writeToFile(is_first, count, write_file, title, img, issue, youtube, soundcloud)
 
-            count += 1
+            count -= 1
 
     write_file.write("\n]")
 

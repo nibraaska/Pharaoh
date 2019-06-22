@@ -11,6 +11,8 @@ export const getAllIssues = () => (dispatch, getState) => {
                 payload: res.data
             });
         }).catch(
-            console.log("Error")
+            console.log('Error')
         );
 };
+
+// export const getIssue = (id) => 
