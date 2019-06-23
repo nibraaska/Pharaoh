@@ -10,17 +10,17 @@ import { getAllIssues } from '../../actions/issues';
 export class issues extends Component {
     static propTypes = {
         issues: PropTypes.array.isRequired,
-        getAllIssues: PropTypes.func.isRequired
+        getAllIssues: PropTypes.func.isRequired,
     }
-    
-    componentDidMount(){
+
+    componentDidMount = () => {
         this.props.getAllIssues()
     }
 
     render() {
         return (
-            <div className="container">
-                <Carousel />
+            <div className="container-fluid">
+                <Carousel three={(Array.from(this.props.issues).reverse().slice(0,3))} />
                 <div className="row">
                     {Array.from(this.props.issues).reverse().map(issue => 
                         <Issue title={issue.title} link_img={issue.image} link_pdf={issue.issue} key={issue.id} />

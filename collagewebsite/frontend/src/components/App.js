@@ -18,24 +18,24 @@ import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 export class App extends Component {
     render() {
         return (
-            <Provider store={store}>
-                <Router>
-                    <Fragment>
-                        <Header />
-                        <div className="container">
-                            <Switch>
-                                <Route exact path='/' component={home} />
-                                <Route path='/issues' component={issues} />
-                                <Route path='/blogs' component={blogs} />
-                                <Route path='/contact' component={contact} />
-                                <Route path='/submit' component={submit} />
-                                <Route path='/login' component={login} />
-                                <Route path='/register' component={register} />
-                            </Switch>
-                        </div>
-                    </Fragment>
-                </Router>
-            </Provider>
+            <div style={{backgroundColor: "#F8F8FF"}}>
+                <Provider store={store}>
+                    <Router>
+                        <Fragment>
+                            <Header />
+                                <Switch>
+                                    <Route exact path='/' component={home} />
+                                    <Route path='/issues' component={issues} />
+                                    <Route path='/blogs' component={blogs} />
+                                    <Route path='/contact' component={contact} />
+                                    <Route path='/submit' component={submit} />
+                                    <Route path='/login' component={login} />
+                                    <Route path='/register' component={register} />
+                                </Switch>
+                        </Fragment>
+                    </Router>
+                </Provider>
+            </div>
         )
     }
 }
