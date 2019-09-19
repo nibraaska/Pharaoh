@@ -1,6 +1,6 @@
 {
     "python.pythonPath": "/home/nibraas/anaconda3/envs/website/bin/python",
-    "python.linting.pylintEnabled": false,
-    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false,
     "python.linting.enabled": true
 }

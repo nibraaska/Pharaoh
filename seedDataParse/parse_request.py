@@ -1,24 +1,16 @@
 import substring
 import requests
-from lxml import etree, html
-import uuid
 import os
-import re
 from bs4 import BeautifulSoup
 
 
-
 dir = "issues/"
-
-
 def main():
     URL = "https://www.mtsu.edu/collage/issues.php"
     r = requests.get(url=URL)
     c = r.content
     soup = BeautifulSoup(c, 'html.parser')
     samples = soup.findAll("div", {"class": "grid-item-container"})
-
-
     write_file = open('collage_parsed.json', 'w')
     write_file.write("[\n")
 
