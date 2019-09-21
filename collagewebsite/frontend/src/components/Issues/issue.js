@@ -11,8 +11,8 @@ export class issue extends Component {
         }
 
         return (
-                <div className="card flex-row flex-wrap col-md-4 border-2 my-auto mx-auto d-block">
-                    <div className="border-2">
+                <div className="card flex-row flex-wrap col-md-3 border-2 my-auto mx-auto d-block">
+                    <div className="border-0">
                         <a href={link_pdf}>
                             <img className="img-fluid mx-auto my-auto d-block" src={link_img} alt=""/>
                         </a>
