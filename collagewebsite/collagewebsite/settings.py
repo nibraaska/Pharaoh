@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'issues',
     'rest_framework',
     'frontend',
+    'blog',
 ]
 
 MIDDLEWARE = [
