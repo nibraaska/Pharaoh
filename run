@@ -13,5 +13,6 @@ cd ..
 python collagewebsite/manage.py makemigrations
 python collagewebsite/manage.py migrate
 python collagewebsite/manage.py loaddata issues
+python collagewebsite/manage.py createsuperuser
 npm run dev &
 python collagewebsite/manage.py runserver
