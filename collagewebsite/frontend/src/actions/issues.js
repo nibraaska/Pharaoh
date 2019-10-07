@@ -15,6 +15,7 @@ export const getAllIssues = () => (dispatch) => {
         );
 };
 
+// GET ONE ISSUE
 export const getIssue = (id) => (dispatch) => {
     axios.get(`http://127.0.0.1:8000/api/issues/${id}`)
         .then(res => {
@@ -24,5 +25,5 @@ export const getIssue = (id) => (dispatch) => {
             });
         }).catch(
             err => console.log('Error')
-        )
-}
+        );
+};

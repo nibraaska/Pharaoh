@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { MDBMask, MDBView, MDBContainer, MDBRow, MDBCol } from "mdbreact";
 
 export class issue extends Component {
 
