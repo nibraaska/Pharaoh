@@ -15,24 +15,26 @@ To run the website on a local server:
        - Create a superuser
        - Run npm for debugging
        - Start the Diango server
-    - The following bash script get everything up and running
-       - 
-          #!/bin/bash
-          
-          npm install
-          cd seedDataParse
-          python parse_request.py
-          cd ..
-          mkdir collagewebsite/media
-          cd seedDataParse
-          mv -f issues/ ../collagewebsite/media/
-          mv collage_parsed.json issues.json
-          mv issues.json ../collagewebsite/issues/fixtures
-          cd ..
-          python collagewebsite/manage.py makemigrations
-          python collagewebsite/manage.py migrate
-          python collagewebsite/manage.py loaddata issues
-          python collagewebsite/manage.py createsuperuser
-          npm run dev &
-          python collagewebsite/manage.py runserver
+
+The following bash script get everything up and running:
+```
+#!/bin/bash
+
+npm install
+cd seedDataParse
+python parse_request.py
+cd ..
+mkdir collagewebsite/media
+cd seedDataParse
+mv -f issues/ ../collagewebsite/media/
+mv collage_parsed.json issues.json
+mv issues.json ../collagewebsite/issues/fixtures
+cd ..
+python collagewebsite/manage.py makemigrations
+python collagewebsite/manage.py migrate
+python collagewebsite/manage.py loaddata issues
+python collagewebsite/manage.py createsuperuser
+npm run dev &
+python collagewebsite/manage.py runserver
+```
          
